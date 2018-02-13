@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/24102004/AglerNoobJS.git"
+    "url": "git+https://github.com/fahmiridhani/GetToken.git"
   },
   "author": "fahmicool150@gmail.com",
   "license": "MIT",
@@ -29,9 +29,9 @@
     "moment": "^2.18.1"
   },
   "bugs": {
-    "url": "https://gitlab.com/24102004/AglerNoobJS/issues"
+    "url": "https://github.com/fahmiridhani/GetToken/issues"
   },
-  "homepage": "https://gitlab.com/24102004/AglerNoobJS#README",
+  "homepage": "https://github.com/fahmiridhani/GetToken#README",
   "keywords": [
     "line"
   ]
